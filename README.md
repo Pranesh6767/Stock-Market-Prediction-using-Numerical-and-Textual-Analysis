@@ -1,2 +1,6 @@
 # Stock-Market-Prediction-using-Numerical-and-Textual-Analysis
 A hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
+
+# Data Source : 
+### 1. historical stock prices : finance.yahoo.com
+### 2. textual (news) data : https://bit.ly/36fFPI6
